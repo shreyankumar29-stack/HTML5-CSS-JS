@@ -149,22 +149,6 @@ HTML5/
 
 ---
 
-## 🚀 Next Learning Goals
-
-- ✅ HTML5
-- ⏳ CSS3
-- ⏳ JavaScript (ES6+)
-- ⏳ Responsive Web Design
-- ⏳ React.js
-
----
-
-## 📖 Course Link
-
-https://youtu.be/kUMe1FH4CHE
-
----
-
 ## ⭐ Acknowledgements
 
 Thanks to **Dave Gray** and **freeCodeCamp.org** for providing this free, high-quality HTML5 course for beginners.
