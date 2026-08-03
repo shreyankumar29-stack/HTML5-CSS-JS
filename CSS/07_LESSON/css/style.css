@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap');
+
+body{
+    padding: 10%;
+    font-size:2rem;
+    font-family: "Open Sans", sans-serif;
+}
+
+/* main{
+    opacity: 0.4;
+} */
+
+/* a{
+    text-decoration: none;
+    cursor: pointer;
+    color: blue;
+}
+ */
+
+a{
+    /* color:steelblue; */
+    color: hsl(207, 44%, 49%, 0.8)
+}
+
+/* Defining classes in CSS */
+/* a:visited {
+     color: purple;
+}
+ */
+
+a:hover, a:focus {
+    /* color: dodgerblue; */
+    opacity: 0.9;
+    background:gold;        
+}
+
+a:active{
+    color: red;
+}
+ 
