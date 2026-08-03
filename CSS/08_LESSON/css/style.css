@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap');
+
+body{
+    padding: 10%;
+    font-size:2rem;
+    font-family: "Open Sans", sans-serif;
+}
+ol{
+    /* list-style-type: lower-alpha; */
+    /* list-style-type: upper-roman; */
+    /* list-style-type: circle; */
+    list-style-type: lower-alpha;
+    padding: 0;
+}
+
+ul{
+    list-style-type: square;
+    text-align: center;
+    list-style-position: outside;
+    color: #00f;
+    line-height: 1.6;
+    /* list-style-image: url('../images/checkmark.png');
+    list-style-image: square url('../images/checkmark.png') inside;*/
+} 
+
+/* ul li:nth-child(odd) {
+    color:red;
+
+} */
+
+ul li:nth-child(even){
+    color: pink;
+}
+
+ul ::marker {
+    color: red;
+    font-family: fantasy;
+    font-size: 1em;
+    content: "Only $5 >> ";
+}
