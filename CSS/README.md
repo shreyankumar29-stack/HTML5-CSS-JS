@@ -69,7 +69,6 @@ CSS/
 ├── 01_Lesson/
 ├── 02_Lesson/
 ├── 03_Lesson/
-├── Notes/
 └── README.md
 ```
 ---
